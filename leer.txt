@@ -1,0 +1,3 @@
+ejecutar pip install flask flask_sqlalchemy
+
+ejecutar python app.py para iniciar
